@@ -19,7 +19,7 @@ Site web moderne pour PM Rénovation, entreprise de rénovation générale basé
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/your-repo/pm-renovation.git
+git clone https://github.com/Mylow-Underscore/pm-renovation.git
 cd pm-renovation
 ```
 
