@@ -13,7 +13,7 @@ export default function ContactCTA() {
           </p>
           <div className="flex gap-4 justify-center">
             <Link href="/devis">
-              <Button variant="secondary" size="lg" className="bg-white text-secondary-500 hover:bg-neutral-100">
+              <Button variant="outline" size="lg" className="border-white text-white hover:bg-secondary-600">
                 Demander un devis
               </Button>
             </Link>

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Site web PM Rénovation - Entreprise de rénovation",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
